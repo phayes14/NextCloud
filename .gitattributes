@@ -21,3 +21,5 @@
 /apps/workflowengine/js/*.js.map binary
 
 /settings/js/vue* binary
+
+*.php linguist-detectable=true
